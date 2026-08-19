@@ -52,8 +52,15 @@ We use this categorical data encoding technique when the features are nominal(do
 
 <img width="974" height="733" alt="image" src="https://github.com/user-attachments/assets/95e5a8ca-941a-45e8-811d-b255b616ef92" />
 
+<img width="866" height="807" alt="image" src="https://github.com/user-attachments/assets/91005b8d-cd3a-4dfd-b385-ecc4bf3f2c1e" />
+
+<img width="861" height="852" alt="image" src="https://github.com/user-attachments/assets/22216f8c-4ae0-414a-aae4-a4ddfac76051" />
+
+<img width="1063" height="604" alt="image" src="https://github.com/user-attachments/assets/75dd789b-0320-489a-87fa-fb20f6bc3ad2" />
+
+
 
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+       Thus the Feature Encoding and Transformation process has been done for the given data.
 
        
